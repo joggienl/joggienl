@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Trying out <a rel="me" href="https://techhub.social/@joggienl">Mastodon</a>.
+
 <!--
 **joggienl/joggienl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
